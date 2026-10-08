@@ -25,4 +25,9 @@ You'll be asked to choose between 'r' (rock), 'p' (paper) or 's' (scissors); and
 
 -----
 ## Program Demostration ##
+https://github.com/user-attachments/assets/6caf904f-1084-486b-bd1c-fdf88fae6d34
 
+-----
+## Future Expansion ##
+- Score Tracker
+- GUI version
