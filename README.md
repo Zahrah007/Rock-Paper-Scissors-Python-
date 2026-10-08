@@ -1,5 +1,5 @@
-# Rock-Paper-Scissors-Python-
-This is a simple terminal-based Rock Paper Scissors game I built, while practising some of the Python fundamentals. It uses a dictionary to display each choice, takes the user input, generates a completely random computer move, and decides the winner based on the original game's rules. It's a small project, but it helped with my comfortability with dictionaries, conditionals, and basic game logic.
+# Rock-Paper-Scissors (Python) #
+This is a simple terminal-based Rock Paper Scissors game I built, while practising some of the Python fundamentals. It uses a dictionary to display each choice, takes the user input, generates a completely random computer move, and decides the winner based on the original game's rules.
 
 -----
 ## What It Does ##
@@ -28,6 +28,9 @@ You'll be asked to choose between 'r' (rock), 'p' (paper) or 's' (scissors); and
 https://github.com/user-attachments/assets/6caf904f-1084-486b-bd1c-fdf88fae6d34
 
 -----
-## Future Expansion ##
+## Future Expansions ##
 - Score Tracker
 - GUI version
+-----
+## Final Thoughts ##
+It's a small project, but it helped with my comfortability with dictionaries, conditionals, and basic game logic.
