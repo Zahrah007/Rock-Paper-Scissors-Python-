@@ -21,6 +21,7 @@ Rock_Paper_Scissors/
 ## How It Runs ##
 The script runs in the terminal:
 `ROCK_PAPER_SCISSORS.py`
+
 You'll be asked to choose between 'r' (rock), 'p' (paper) or 's' (scissors); and the game will display both of the choices and the results.
 
 -----
