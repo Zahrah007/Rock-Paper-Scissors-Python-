@@ -12,9 +12,9 @@ This is a simple terminal-based Rock Paper Scissors game I built, while practisi
 -----
 ## Project Structure ##
 ```
-Rock_Paper_Scissors/
+ROCK_PAPER_SCISSORS/
 │
-└─ Rock_Paper_Scissors.py            # Main game logic
+└─ ROCK_PAPER_SCISSORS.py            # Main game logic
 ```
 
 -----
